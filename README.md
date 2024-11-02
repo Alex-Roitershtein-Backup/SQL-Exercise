@@ -1,4 +1,4 @@
-# SQLite Basic (40x🔑)
+# SQLite Basic 
 
 In this exercise, you will learn the basics of the Structured query language \(SQL\)
 
@@ -86,7 +86,7 @@ In the **Execute SQL** tab, do the following:
 
 ### Count & Filter
 
-Go back the **myDatabase**.
+Go back to the **myDatabase**.
 
 In the **Execute SQL** tab, do the following:
 
@@ -96,3 +96,9 @@ In the **Execute SQL** tab, do the following:
 4. Find the names of students that contains 's'
 5. Find all students based on the decreasing order of their points
 6. commit \("Count & Filter"\)
+
+### Report
+
+1. Create a PDF file reporting all the assignments (listed above) you have completed in the course of this exercise.
+2. The report should include all relvant tables and brief annotations.
+3. Submit your PDF report on Canvas through "HW 3 Ex1" option. 
